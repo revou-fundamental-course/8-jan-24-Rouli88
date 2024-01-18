@@ -1,0 +1,77 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+header {
+    text-align: center;
+}
+header {
+    color: rgb(85, 99, 94);
+}
+body {
+    color: rgb(85, 99, 94);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+Header h1 {
+    background-color: #f6b17a;
+    font-size: large;
+    padding: 0.8em;
+    border-color: aquamarine;
+    border-radius: 8px;
+}
+marquee {
+    font-size: small;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+    body img {
+        width: 500px; height: 250px;
+        display:block; margin: auto;
+        background-color: darkorange;
+    }
+body h2 {
+    background-color: #f6b17a;
+    text-align: center;
+    font-size: large;
+    padding: 0.2em;
+    border-radius: 8px;
+}
+body h3 {
+    font-size: medium;
+}
+body h4 {
+    font-size: small;
+}
+body h6 {
+    font-size: medium;
+}
+#squareside {
+    margin-top: 14px;
+    border-radius: 8px;
+    background-color: #f6b17a;
+    padding: 8px;
+    border: none;
+}
+.inputsection {
+    display: flex;
+    flex-direction: column;
+}
+button {
+    background-color: #f6b17a;
+    border: none;
+    border-radius: 6px;
+    color: rgb(85, 99, 94);
+}
+button:hover {
+    background-color: rgb(85, 99, 94);
+}
+button:active {
+    background-color: aquamarine;
+    transform: translateY(2px);
+}
+body h5 {
+    background-color: #f6b17a;
+    text-align: center;
+    font-size: large;
+    padding: 0.2em;
+    border-radius: 8px;
+}
